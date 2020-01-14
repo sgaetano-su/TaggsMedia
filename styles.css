@@ -1,0 +1,174 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+.navbar-image {
+  padding:20px;
+}
+
+
+
+.navbar-custom {
+padding-bottom: 20px;  
+padding-top:10px;
+}
+
+
+
+h1 {
+  font-family: 'Bebas Neue', cursive;
+  font-size:50px;
+}
+
+h2 {
+  font-family: 'Share Tech', sans-serif;
+}
+
+h3 {
+  font-family: 'Work Sans', sans-serif;
+
+}
+
+p {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 17px;
+}
+
+label {
+  font-family: 'Work Sans', sans-serif;
+}
+
+
+.title-text {
+  font-family: 'Raleway', sans-serif;
+}
+
+
+
+
+
+.video {
+    background-image: url("images/Icon Pattern Full Blue.png");
+    margin-bottom:50px;
+}
+
+
+.contact {
+    background-image: url("images/Lense Pattern Color.png");
+}
+
+.contact-background {
+  background-color:#0C1932;
+  padding:30px;
+}
+
+
+.content-section {
+  padding:50px;
+}
+
+
+.bg-blue {
+  background-color:#0C1932;
+}
+
+.bg-orange{
+  background-color:#CA852A;
+}
+
+
+.text-blue {
+  color:#0C1932
+}
+
+.text-orange {
+  color:#CA852A;
+}
+
+
+.border {
+  border-width: 5px !important;
+  border-color:#0C1932 !important;
+}
+
+a {
+  color: #0C1932;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #CA852A;
+  text-decoration: none;
+  transition: all .5s ease;
+}
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: relative;
+  background-color: white;
+  min-width: 160px;
+}
+
+.dropdown-content a {
+  color: #0C1932;
+  text-decoration: none;
+}
+
+.dropdown-content a:hover {
+  color: #CA852A;
+  text-decoration: none;
+}
+
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+.card-img-top {
+  background-color:#CA852A;
+
+}
+
+.card {
+  padding:0px;
+  border-width:5px;
+  border-radius: 10px;
+}
+
+.card-title {
+  color:#0C1932;
+  
+}
+
+
+
+.footer {
+  background-color:#CA852A;
+  font-family: 'Bebas Neue', cursive;
+  color:#0C1932;
+  font-size:20px;
+  margin-top:50px;
+  
+}
+
+
+.btn-primary {
+  color:#0C1932;
+  background-color:white;
+  border-color:#CA852A;
+}
+
+.btn-primary:hover {
+  color:white;
+  background-color:#CA852A;
+  border-color:#CA852A;
+}
